@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
 
 Route::get('/index', function () {
@@ -37,6 +37,22 @@ Route::get('/Login', function () {
 	return view('Login');
 });
 
-Route::get('/agroindustri', function () {
-	return view('agroindustri');
+Route::get('/charts', function () {
+	return view('charts');
+});
+Route::get('/dashboard', function () {
+	return view('dashboard');
+});
+Route::get('/produk', function () {
+	return view('produk');
+});
+Route::get('/promo', function () {
+	return view('promo');
+});
+Route::get('/page-login', function () {
+	return view('page-login');
+});
+
+Route::get('/register1', function () {
+	return view('register1');
 });

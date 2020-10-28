@@ -46,7 +46,7 @@
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="in">Home</a></li>
                             <li><a href="products.html" class="active">Products</a></li>
                             <li><a href="checkout.html">Checkout</a></li>
                             <li class="dropdown">

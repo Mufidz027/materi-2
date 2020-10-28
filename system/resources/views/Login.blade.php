@@ -49,8 +49,6 @@
                             <li><a href=" {{url('/index')}} " class="active">Home</a></li>
                             <li><a href=" {{url('/products')}} ">Products</a></li>
                             <li><a href="{{url('/checkout')}}">Checkout</a></li>
-                            
-
 
 
 

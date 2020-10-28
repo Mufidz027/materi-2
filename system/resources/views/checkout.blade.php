@@ -49,6 +49,7 @@
                             <li><a href=" {{url('/index')}} " class="active">Home</a></li>
                             <li><a href=" {{url('/products')}} ">Products</a></li>
                             <li><a href="{{url('/checkout')}}">Checkout</a></li>
+                            <li><a href="{{url('/Login')}}">Login</a></li>
                             
                             <li class="dropdown">
                                 <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">About</a>
